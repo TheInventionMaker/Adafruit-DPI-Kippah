@@ -1591,7 +1591,7 @@
          }; // pin_defines
       }; // pins
 
-      pins_pi0 { // Pi zero
+      pins_pi0w { // Pi zero
          pin_config {
             pin@default {
                polarity = "active_high";
